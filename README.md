@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Livengog
+- 👋 Hi, I’m Zahar
 - 👀 I’m interested in development of sites, microcircuits, which is based on arduino.
 - 🌱 I’m currently learning html, CSS, JS, math
 
